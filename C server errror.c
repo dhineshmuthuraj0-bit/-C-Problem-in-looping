@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 int main() {
     int N, errors, total = 0, critical = 0;
     scanf("%d", &N);
